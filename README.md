@@ -8,11 +8,11 @@
 
 <div align="center">
 
-📖 Learning **Data Structures & Algorithms**
+👨🏻‍💻 Learning **Data Structures & Algorithms**
 
 🙋🏻‍♂️ Ask me about **Python & JavaScript**
 
-🫨 Fun fact **Python isn't a snack 🐍.**
+🤩 Fun fact **Python isn't a snack 🐍.**
 
 </div>
 
